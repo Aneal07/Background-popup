@@ -1,6 +1,6 @@
 # Background-popup
 
-DEMO:aneal07.github.io/Background-popup/
+DEMO: aneal07.github.io/Background-popup/
 
 The repository contains code for a background popup feature that can be added to a website.
 The code is written in HTML, CSS, and JavaScript.
